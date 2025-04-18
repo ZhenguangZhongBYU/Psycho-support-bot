@@ -5,6 +5,7 @@
 
 This is an AI-assisted tool specifically designed for mental health patients, aiming to provide emotional support and practical advice to help users better manage their mental health.
 
+Live demo: https://zhenguangzhongbyu.github.io/Psycho-support-bot/
 ## 主要功能 / Main Features
 
 ### 1. 作息矫正计划生成器 / Sleep Schedule Correction Generator
